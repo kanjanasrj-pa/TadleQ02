@@ -1,0 +1,5 @@
+style.backup-*.css
+README.txt.bak
+*.zip
+.DS_Store
+Thumbs.db
